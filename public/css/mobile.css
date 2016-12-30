@@ -1,0 +1,33 @@
+.img {
+  width: 100%;
+  height: 50%;
+  background-image: url('../images/mobile.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div.text {
+  font-family: CourierStd;
+  padding: 0px 10px;
+  font-size: 25pt;
+}
+
+footer {
+  text-align: center;
+  font-family: Bureau;
+}
+
+h1 {
+  font-family: Bureau;
+  text-align: center;
+  font-size:100pt;
+}
+
+ul,li {
+  padding:0 20px;
+}
+
+li.no_bullet {
+  list-style-type:none;
+}

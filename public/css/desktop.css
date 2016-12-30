@@ -1,0 +1,38 @@
+.img {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 1;
+  background-image: url('../images/desktop.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.text {
+  font-family: CourierStd;
+  font-size: 16pt;
+  width: 50%;
+  float: right;
+}
+
+footer {
+  text-align: center;
+  font-family: Bureau;
+}
+
+h1 {
+  font-family: Bureau;
+  text-align: center;
+  font-size:50pt;
+}
+
+ul,li {
+  padding:0 20px;
+}
+
+li.no_bullet {
+  list-style-type:none;
+}
